@@ -1,0 +1,3 @@
+#!/home/kaustubhpatro/PycharmProjects/pythonProject/venv/bin/python
+from numba.pycc import main
+main()
